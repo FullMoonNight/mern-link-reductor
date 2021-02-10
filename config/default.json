@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "<your secret key for JWT>",
+  "mongoURL": "<MongoDB URL>",
+  "baseURL": "http://localhost:5000"
+}
