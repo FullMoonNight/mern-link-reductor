@@ -2,5 +2,5 @@
   "port": 5000,
   "jwtSecret": "<your secret key for JWT>",
   "mongoURL": "<MongoDB URL>",
-  "baseURL": "https://link-reductor.herokuapp.com/"
+  "baseURL": "https://link-reductor.herokuapp.com"
 }
